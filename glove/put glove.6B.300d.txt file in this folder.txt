@@ -1,0 +1,1 @@
+put glove.6B.300d.txt file in this folder
